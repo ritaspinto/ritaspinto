@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rita</h1>
-<h3 align="center">A Junior Full Stack Developer from Portugal</h3>
+<h1 align="center">Hi there! Welcome to my page 😊 </h1>
+<h3 align="center">My name is Rita and I'm a Junior Full Stack Developer from Portugal</h3>
 <img align="right" alt="Coding" width"400" src="https://i.pinimg.com/originals/72/0e/68/720e68252882e094b164e210104c35c1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritaspinto&label=Profile%20views&color=0e75b6&style=flat" alt="ritaspinto" /> </p>
